@@ -1,4 +1,4 @@
-name: practice-action-2
+name: practice action 2
 on: push
 jobs:
   lint:
